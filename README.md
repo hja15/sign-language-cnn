@@ -69,13 +69,11 @@ Potential extensions of this project include:
 ---
 
 ## Project Files
-- **Notebook:** `sign_language_cnn.ipynb`
-- **Report:** `Sign_Language_CNN_Report.pdf`
 
 > **Note:** GitHub’s PDF preview may not display clickable hyperlinks.  
 > To access embedded links, please download the PDF directly.
 
-- [Download Project Report (PDF)](https://raw.githubusercontent.com/YOURUSERNAME/REPO_NAME/main/Sign_Language_CNN_Report.pdf)
+- [Download Project Report (PDF)](https://raw.githubusercontent.com/hja15/sign-language-cnn/main/CNN-SignLanguageProject-FinalVersion.pdf)
 
 ---
 
